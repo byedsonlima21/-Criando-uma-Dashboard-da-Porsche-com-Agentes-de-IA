@@ -1,5 +1,59 @@
 # -Criando-uma-Dashboard-da-Porsche-com-Agentes-de-IA
-Meu projeto de conclusão do bootcamp da DIO! Curso foi "Aceleração: AI Reports com Excel, GPT Agents e Claude Code"
+# Porsche Luxury Sales Dashboard
+
+Dashboard executivo desenvolvido como desafio final do curso **Aceleração: AI Reports com Excel, GPT Agents e Claude Code**, da DIO.
+
+O projeto tem como objetivo apresentar uma análise estratégica de vendas da Porsche utilizando uma interface premium inspirada no design oficial da Porsche Brasil, focando em experiência visual refinada, interatividade e insights de negócio.
+
+## Funcionalidades
+
+* Filtros dinâmicos e interativos
+
+  * Modelo da Porsche
+  * Ano do modelo
+  * Cidade
+  * Método de pagamento
+
+* KPIs estratégicos
+
+  * Modelo mais vendido
+  * Volume total de vendas
+  * Performance por período
+
+* Insights comerciais
+
+  * Carros mais vendidos por cidade
+  * Tendências regionais de vendas
+  * Identificação de modelos populares
+
+## Tecnologias utilizadas
+
+* React
+* Vite
+* JavaScript
+* Tailwind CSS
+
+## Objetivo do projeto
+
+Este dashboard foi desenvolvido com foco em:
+
+* visualização de dados
+* experiência do usuário (UI/UX)
+* dashboards executivos
+* análise de vendas
+* aplicações modernas com IA e automação
+
+## Diferenciais
+
+* Interface inspirada na identidade visual da Porsche Brasil
+* Design elegante e minimalista
+* Estrutura preparada para expansão com gráficos e integração de dados reais
+* Projeto voltado para portfólio de tecnologia e análise de dados
+
+## Autor
+
+Desenvolvido por Edson Lima.
+
 
 # Codigo
 
